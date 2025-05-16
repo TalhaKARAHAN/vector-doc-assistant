@@ -1,0 +1,12 @@
+chromadb
+sentence_transformers
+pypdf
+langchain
+tqdm
+IPython
+google-generativeai
+genai
+ollama
+flask
+flask-wtf
+python-dotenv
